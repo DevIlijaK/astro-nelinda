@@ -1,6 +1,5 @@
 import { Elysia, t } from "elysia";
 import OpenAI from "openai";
-import { AssistantCreateParams } from "openai/resources/beta/assistants/assistants";
 import { html } from "@elysiajs/html";
 import { BaseHtml } from "./baseHTML";
 import { RunCreateParams } from "openai/resources/beta/threads/runs/runs";
